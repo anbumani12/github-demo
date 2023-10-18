@@ -1,2 +1,2 @@
 # github-demo
-this is demo code for github session
+this is demo for github session
